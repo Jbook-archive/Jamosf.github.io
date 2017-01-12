@@ -16,8 +16,8 @@ permalink: /about/
 
 * GitHub：[@fengshangren](https://github.com/fengshangren)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@CSU老马冇敌SJTU](http://weibo.com/CSU老马冇敌SJTU)
-* 知乎: [@加摩斯](http://www.zhihu.com/people/加摩斯)
+* 微博: [@CSU老马冇敌SJTU](http://weibo.com/u/2205677364/home?wvr=5)
+* 知乎: [@加摩斯](https://www.zhihu.com/people/jia-mo-si/activities)
 
 ## Skill Keywords
 
