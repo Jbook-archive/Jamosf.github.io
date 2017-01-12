@@ -2,7 +2,6 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-#url: http://fengshangren.github.io
 date_format: "ordinal"
 title: 加摩斯
 subtitle: "像疯子一样活着"

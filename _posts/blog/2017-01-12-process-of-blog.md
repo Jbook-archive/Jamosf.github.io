@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 搭建博客的过程
-categories: blog
+categories: Blog
 description: 努力奋进
 keywords: 学习记录, 自我激励
 ---
