@@ -15,7 +15,8 @@ permalink: /about/
 ## 联系
 
 * GitHub：[@fengshangren](https://github.com/fengshangren)
-* 博客：[{{ site.title }}]({{ site.url }})
+* 个人博客：[{{ site.title }}]({{ site.url }})
+* 新浪博客: [@加摩斯](http://blog.sina.com.cn/u/2205677364)
 * 微博: [@CSU老马冇敌SJTU](http://weibo.com/u/2205677364/home?wvr=5)
 * 知乎: [@加摩斯](https://www.zhihu.com/people/jia-mo-si/activities)
 
