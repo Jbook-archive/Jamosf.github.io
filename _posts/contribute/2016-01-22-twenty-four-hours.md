@@ -10,7 +10,7 @@ keywords: 感悟
 > 作者：LW
 
 
-![](/image/contribute/C02.jpeg)
+![](/images/contribute/C02.jpg)
 萍水相逢作为一种日常，相遇意义大多超于表象。
 
 上世纪六十年代，白色衬衫是男性经典性幻想的服装代表之一。二战期间，一些东方国家时常会发生二十四小时情事。一觉醒来，不知所踪。
@@ -45,4 +45,4 @@ keywords: 感悟
 我认识她，在那个海边。整整二十四小时，不曾有过分离。
 
 ***
-欢迎关注作者微信公众号：wen805359724 ![](/image/contribute/Public-number.bmp)
+欢迎关注作者微信公众号：wen805359724 ![](/images/contribute/Public-number.bmp)
