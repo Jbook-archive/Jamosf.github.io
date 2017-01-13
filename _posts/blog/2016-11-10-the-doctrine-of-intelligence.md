@@ -2,7 +2,7 @@
 
 layout: post
 title: 日记001-智能主义
-categories: Books
+categories: Blog
 description: 行业大佬的阐述
 keywords: 行业，名著
 
