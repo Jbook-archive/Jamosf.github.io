@@ -2,7 +2,7 @@
 
 layout: post
 title: 常识－后感
-categories: Blog
+categories: Life
 description: 阅读后感
 keywords: 后感，文学
 

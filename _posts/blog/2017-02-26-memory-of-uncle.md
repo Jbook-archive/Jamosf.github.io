@@ -2,7 +2,7 @@
 
 layout: post
 title: 忆大伯
-categories: Blog
+categories: Life
 description: 生活
 keywords: 亲情
 
