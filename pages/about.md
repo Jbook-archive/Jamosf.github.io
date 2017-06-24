@@ -2,13 +2,13 @@
 layout: page
 title: About
 description: 像疯子一样活着
-keywords: shangren Feng, 冯上任
+keywords: Jamos
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是冯上任，为代码而生。
+我是Jamos，为代码而生。
 
 在过去蹉跎的二十载，没有发现代码之美，而今发现，就无法自拔。
 
