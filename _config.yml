@@ -5,8 +5,8 @@ baseurl:
 date_format: "ordinal"
 title: LWBH
 subtitle: "像疯子一样活着"
-description: "加摩斯的个人博客"
-keywords: 加摩斯, shangrenlife, fengshangren
+description: "Jamos的个人博客"
+keywords: Jamos, shangrenlife, fengshangren
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
