@@ -1,9 +1,9 @@
 ---
 
 layout: post
-title: Ubuntu16.04安装Docker的步骤
+title: Docker基本命令学习
 categories: Docker
-description: 搭建的步骤
+description: 镜像
 keywords: ubuntu, docker
 ---
 > 作者：BH
