@@ -6,11 +6,3 @@ export OS_URL=http://controller:35357/v3
 创建一个domain，可以是default
 在default域下面创建一个admin项目、admin用户、admin角色；
 
-
-
-
-工伤处理注意事项：
-1. 尽量不要自己垫付医药费，否则会很被动；
-2. 在没有劳务关系证明的情况下，尽量不要启动工伤认定程序；
-
-

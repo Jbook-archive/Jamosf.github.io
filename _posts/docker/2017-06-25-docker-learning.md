@@ -61,7 +61,6 @@ keywords: ubuntu, docker
  docker port $(docker run -d -p nginx) 80  #可以查看容器的80端口对应的主机端口
  ``` 
 
-
  11. 下载一个mysql的镜像，并运行起来。
  ```
  docker run --name mysqlroot -e MYSQL_ROOT_PASSWORD=cloud -d mysql:latest
