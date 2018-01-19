@@ -1,6 +1,6 @@
 # 加摩斯
 
-我的个人博客：<http://fengshangren.github.io>，感谢张志的template。
+我的个人博客：<http://jamos.github.io>，感谢张志的template。
 
 ## 思考的方式
 * 做好事，得多练；说好话，得多想。
