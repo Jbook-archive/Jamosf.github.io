@@ -3,10 +3,10 @@
 # ---------------- #
 baseurl:
 date_format: "ordinal"
-title: LWBH
+title: 不止
 subtitle: "像疯子一样活着"
-description: "Jamos的个人博客"
-keywords: Jamos, shangrenlife, fengshangren
+description: "Jamosf的个人博客"
+keywords: Jamosf
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Jamos
-organization: ZTE, Inc.
-organization_url: https://www.zte.com
+# organization: ZTE, Inc.
+# organization_url: https://www.zte.com
 location: shanghai, China
 email: fengshangren81@gmail.com
 
@@ -33,13 +33,13 @@ navs:
     href: /categories/
     label: 分类
 
-  -
-    href: /wiki/
-    label: 维基
+  # -
+  #  href: /wiki/
+  #  label: 维基
 
-  -
-    href: /links/
-    label: 链接
+  # -
+  #  href: /links/
+  #  label: 链接
 
   -
     href: /about/
@@ -76,16 +76,16 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: fengshangren/fengshangren.github.io
+# repository: fengshangren/fengshangren.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: fengshangren
-facebook_username: 冯上任
-weibo_username: CSU老马冇敌SJTU
-zhihu_username: 加摩斯
-twitter_username: jacky long
+# github_username: fengshangren
+# facebook_username: 冯上任
+# weibo_username: CSU老马冇敌SJTU
+# zhihu_username: 加摩斯
+# twitter_username: jacky long
 
 # ---------------- #
 #      Comments    #
