@@ -15,11 +15,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Jamos
+# author: Jamos
 # organization: ZTE, Inc.
 # organization_url: https://www.zte.com
-location: shanghai, China
-email: fengshangren81@gmail.com
+# location: shanghai, China
+# email: fengshangren81@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -29,9 +29,9 @@ navs:
     href: /
     label: 首页
 
-  -
-    href: /categories/
-    label: 分类
+  # -
+  #  href: /categories/
+  #  label: 分类
 
   # -
   #  href: /wiki/
