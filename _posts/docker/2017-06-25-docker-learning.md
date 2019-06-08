@@ -23,14 +23,14 @@ keywords: ubuntu, docker
  ```
  5. 利用dockerfile构建对象
  ```
- #dockerfie 内容，任一目录新建Dockerfile文件即可
+ dockerfie 内容，任一目录新建Dockerfile文件即可
  FROM debian:wheezy  #指定镜像
 
  RUN apt-get update && apt-get install -y cowsay fortune  #镜像运行的命令
 
  ENTRYPOINT ["/usr/games/cowsay"]  #指定一个可执行文件，可以是脚本
 
- #创建镜像命令
+ 创建镜像命令
  docker build -t jiamosi/cowsay-dockfile .
  ```
  6. 发布镜像
@@ -54,7 +54,7 @@ keywords: ubuntu, docker
 
  10. 容器与世界互联
  ```
- #暴露一个端口
+ 暴露一个端口
  docker run -d -p 8000:80 nginx  # 将主机的8000端口转发给容器的80端口
  或者
  docker run -d -p nginx # 自动选择一个主机上未使用的端口
