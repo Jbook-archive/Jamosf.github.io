@@ -15,7 +15,7 @@ permalink: /about/
 ## 联系
 
 * GitHub：[@jamosf](https://github.com/jamosf)
-* 个人博客：[@{{ site.title }}]({{ site.url }})
+# * 个人博客：[@{{ site.title }}]({{ site.url }})
 * 知乎: [@jamosf](https://www.zhihu.com/people/jia-mo-si/activities)
 
 ## Skill Keywords

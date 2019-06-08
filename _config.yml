@@ -3,8 +3,8 @@
 # ---------------- #
 baseurl:
 date_format: "ordinal"
-title: 不止
-subtitle: "像疯子一样活着"
+title: 不止1
+# subtitle: "像疯子一样活着"
 description: "Jamosf的个人博客"
 keywords: Jamosf
 favicon: /favicon.ico
@@ -25,9 +25,9 @@ side_bar_repo_limit: 5
 #    Navigation    #
 # ---------------- #
 navs:
-  -
-    href: /
-    label: 首页
+  # -
+  #  href: /
+  #  label: 首页
 
   # -
   #  href: /categories/
@@ -41,9 +41,9 @@ navs:
   #  href: /links/
   #  label: 链接
 
-  -
-    href: /about/
-    label: 关于
+  # -
+  #  href: /about/
+  #  label: 关于
 
 # ---------------- #
 #       RSS        #
