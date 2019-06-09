@@ -76,7 +76,7 @@
     margin-left: 0;
     font-size: 1rem;
     display: block;
-    text-align: left;
+    text-align: right;
   }
   .collapsed {
     float: right;
