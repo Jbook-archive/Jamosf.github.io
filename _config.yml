@@ -26,9 +26,9 @@ side_bar_repo_limit: 5
 #    Navigation    #
 # ---------------- #
 navs:
-  # -
-  #  href: /
-  #  label: 首页
+   -
+    href: /mybook
+    label: book
 
   # -
   #  href: /categories/
