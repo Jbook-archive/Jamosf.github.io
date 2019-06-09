@@ -2,6 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
+url: https://jamosf.github.io
 date_format: "ordinal"
 title: 不止
 # subtitle: "像疯子一样活着"
