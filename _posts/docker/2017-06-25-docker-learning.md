@@ -25,11 +25,8 @@ keywords: ubuntu, docker
  ```
  dockerfie 内容，任一目录新建Dockerfile文件即可
  FROM debian:wheezy  #指定镜像
-
  RUN apt-get update && apt-get install -y cowsay fortune  #镜像运行的命令
-
  ENTRYPOINT ["/usr/games/cowsay"]  #指定一个可执行文件，可以是脚本
-
  创建镜像命令
  docker build -t jiamosi/cowsay-dockfile .
  ```
