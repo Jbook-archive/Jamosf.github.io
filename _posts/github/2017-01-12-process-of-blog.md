@@ -7,7 +7,7 @@ description: 努力奋进
 keywords: 学习记录, 自我激励
 
 ---
-> 作者：BH
+> 作者：Jamosf
 
 
 

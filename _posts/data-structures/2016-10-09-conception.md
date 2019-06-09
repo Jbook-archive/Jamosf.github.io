@@ -7,7 +7,7 @@ description: 数据结构的基本概念
 keywords: 数据结构
 
 ---
-> 作者：BH(*fengshangren*)
+> 作者：Jamosf
 
 ### 数据结构基本概念：
 抽象数据类型（ADT）；  
