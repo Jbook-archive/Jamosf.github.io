@@ -2,7 +2,7 @@
 
 layout: post
 title:   数据结构概念
-categories: Data-structure
+categories: 数据结构和算法
 description: 数据结构的基本概念
 keywords: 数据结构
 
