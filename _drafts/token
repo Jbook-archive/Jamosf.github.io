@@ -1,8 +1,0 @@
-token a287c4339973c1e328c8
-export OS_URL=http://controller:35357/v3
-
-
-
-创建一个domain，可以是default
-在default域下面创建一个admin项目、admin用户、admin角色；
-

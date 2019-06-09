@@ -1,7 +1,0 @@
-VBoxManage list vms  
-
-VBoxManage list runningvms  
-
-VBoxManage startvm <vm_name> -type headless
-
-VBoxManage controlvm <vm_name> acpipowerbutton 
