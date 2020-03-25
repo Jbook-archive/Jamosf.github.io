@@ -30,9 +30,9 @@ navs:
     href: /mybook
     label: 生活琐碎
 
-  -
-   href: /economy
-   label: 投资理财
+   -
+    href: /economy
+    label: 投资理财
 
   # -
   #  href: /wiki/
