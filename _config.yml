@@ -112,3 +112,12 @@ google:
 skill_software_keywords: [Java, C++, Python]
 skill_mobile_app_keywords: [Android]
 skill_windows_keywords: [BCB, VC++, MFC]
+
+valine_comment:
+    enable: true
+  # app_id
+    leancloud_appid: j4dxR53zt20pltBBjdWPHTwE-gzGzoHsz
+  # app_key
+    leancloud_appkey: yDtdr5abl7q6Mn59Hu7UgMGx
+  # placeholde
+    placeholder: “Just go go"
