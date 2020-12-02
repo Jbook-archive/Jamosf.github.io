@@ -121,3 +121,5 @@ valine_comment:
     leancloud_appkey: yDtdr5abl7q6Mn59Hu7UgMGx
   # placeholde
     placeholder: “Just go go"
+
+theme: jekyll-theme-cayman
